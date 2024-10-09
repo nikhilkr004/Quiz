@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "41272182834",
+    "firebase_url": "https://swiftride-2a793-default-rtdb.firebaseio.com",
+    "project_id": "swiftride-2a793",
+    "storage_bucket": "swiftride-2a793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41272182834:android:7ffc6e2cd66fdc15d3542b",
+        "android_client_info": {
+          "package_name": "com.example.alphaquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIQ1y1MBolIw90ROY0nci2ajPXqlwnVUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41272182834:android:8969772db19b6e1dd3542b",
+        "android_client_info": {
+          "package_name": "com.example.blinkbackend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIQ1y1MBolIw90ROY0nci2ajPXqlwnVUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41272182834:android:f2b6c5320f15e53dd3542b",
+        "android_client_info": {
+          "package_name": "com.example.swiftride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIQ1y1MBolIw90ROY0nci2ajPXqlwnVUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
