@@ -35,7 +35,7 @@ object Utils {
         val currentUser = FirebaseAuth.getInstance().currentUser
         return if (currentUser != null) {
             val userId = currentUser.uid
-            val databaseReference = FirebaseDatabase.getInstance().getReference("users").child(userId).child("name")
+            val databaseReference = FirebaseDatabase.getInstance().getReference("user").child(userId).child("name")
             try {
                 val snapshot = databaseReference.get().await()
                 snapshot.getValue(String::class.java)
@@ -60,4 +60,9 @@ object Utils {
         return stringdate
 
     }
+
+
+
+
+
 }

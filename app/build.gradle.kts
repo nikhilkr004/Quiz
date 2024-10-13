@@ -58,5 +58,10 @@ dependencies {
         implementation (libs.sdp.android)
     //round image view
     implementation (libs.circleimageview)
+    //shimmer
+    implementation (libs.shimmer)
+
+    //glide
+    implementation (libs.glide)
 
 }
